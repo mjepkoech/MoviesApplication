@@ -1,7 +1,7 @@
-MoviesApplication
+# MoviesApplication
 Safaricom hackathon backed developer solution
 
-Content
+# Content
 •	Microservice with Vert.x
 •	Asynchronous development model
 •	Asynchronous RPC on the clustered event bus
@@ -10,14 +10,14 @@ Content
 •	Global authentication (Local/JWT)
 •	Centralized logging using ELK stack
 
-The requirements to run this application include;
+# The requirements to run this application include;
 •	Java 1.8
 •	Maven
 •	Vertx
 •	MySQL
 •	Docker(Can run without docker)
  
-How to run Movies Application
+# How to run Movies Application
 •	Clone the repository
 •	Install Docker and Docker Compose
 •	Run docker file in the application
